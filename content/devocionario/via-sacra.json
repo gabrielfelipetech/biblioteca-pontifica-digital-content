@@ -1,0 +1,125 @@
+{
+    "Via Sacra": [
+      {
+        "estacao": "I ESTAÇÃO",
+        "titulo": "JESUS É CONDENADO À MORTE",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Pilatos, desejando agradar à multidão, soltou-lhes Barrabás; e, depois de mandar flagelar Jesus, entregou-O para ser crucificado. (Mc 15,15)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "II ESTAÇÃO",
+        "titulo": "JESUS TOMA A CRUZ AOS OMBROS",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Depois de O terem escarnecido, tiraram-Lhe o manto, vestiram-Lhe as Suas roupas e levaram-No para ser crucificado. (Mt 27,31)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "III ESTAÇÃO",
+        "titulo": "JESUS CAI PELA PRIMEIRA VEZ",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Vinde a Mim, todos os que estais cansados e oprimidos, que Eu hei-de aliviar-vos. Tomai sobre vós o Meu jugo e aprendei de Mim, porque sou manso e humilde de coração e encontrareis descanso para o vosso espírito. Pois o Meu jugo é suave e o Meu fardo é leve. (Mt 11,28-30)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "IV ESTAÇÃO",
+        "titulo": "JESUS ENCONTRA SUA MÃE",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Aquele que fizer a vontade de Deus, esse é que é meu irmão, minha irmã e minha mãe. (Mc 3,35)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "V ESTAÇÃO",
+        "titulo": "JESUS É AJUDADO POR SIMÃO DE CIRENE",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Jesus perguntou: Qual [...] te parece ter sido o próximo daquele homem que caiu nas mãos dos salteadores? Respondeu: O que usou de misericórdia para com ele. Jesus retorquiu: Vai e faz tu também o mesmo. (Lc 10, 36-37)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "VI ESTAÇÃO",
+        "titulo": "A VERÔNICA ENXUGA O ROSTO A JESUS",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Ó vós todos que passais pelo caminho, olhai e vede se existe dor igual à dor que Me atormenta. (Lm 1,12)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "VII ESTAÇÃO",
+        "titulo": "JESUS CAI PELA SEGUNDA VEZ",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Se alguém quiser vir após Mim, negue-se a si mesmo, tome a sua cruz e siga-Me. Na verdade, quem quiser salvar a sua vida, há-de perdê-la; mas, quem perder a sua vida por causa de Mim e do Evangelho, há-de salvá-la. (Mc 8,3-35)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "VIII ESTAÇÃO",
+        "titulo": "JESUS CONSOLA AS PIEDOSAS MULHERES",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Jesus voltou-se para elas e disse-lhes: Filhas de Jerusalém, não choreis por Mim, chorai antes por vós mesmas e pelos vossos filhos. (Lc 23, 28)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "IX ESTAÇÃO",
+        "titulo": "JESUS CAI PELA TERCEIRA VEZ",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "E disse-lhes: 'A Minha alma está numa tristeza mortal; ficai aqui e vigiai'. (Mc 14,34)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "X ESTAÇÃO",
+        "titulo": "JESUS É DESPOJADO DAS SUAS VESTES",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Assim se cumpriu a Escritura, que diz: Repartiram entre eles as minhas vestes e sobre a minha túnica lançaram sortes. (Jo 19,24)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "XI ESTAÇÃO",
+        "titulo": "JESUS É CRUCIFICADO",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Então, Jesus, ao ver ali ao pé a sua mãe e o discípulo que Ele amava, disse à mãe: 'Mulher, eis o teu filho!' Depois, disse ao discípulo: Eis a tua mãe! E, desde aquela hora, o discípulo acolheu-a como sua. (Jo 19, 26-27)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "XII ESTAÇÃO",
+        "titulo": "JESUS MORRE NA CRUZ",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Dando um forte grito, Jesus exclamou: 'Pai, nas Tuas mãos entrego o Meu espírito'. Dito isto, expirou. (Lc 23,46)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "XIII ESTAÇÃO",
+        "titulo": "JESUS É DESCIDO DA CRUZ E ENTREGUE A SUA MÃE",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Uma espada trespassará a tua alma. Assim hão-de revelar-se os pensamentos de muitos corações. (Lc 2,25)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "XIV ESTAÇÃO",
+        "titulo": "JESUS É SEPULTADO",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "[José de Arimateia] foi ter com Pilatos e pediu-lhe o corpo de Jesus. Descendo-O da cruz, envolveu-O num lençol e depositou-O num sepulcro talhado na rocha, onde ainda ninguém tinha sido sepultado. (Lc 23,52)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      },
+      {
+        "estacao": "XV ESTAÇÃO",
+        "titulo": "JESUS RESSUSCITA COMO TINHA DITO",
+        "versiculo": "V. Nós Vos adoramos e Vos bendizemos, Senhor Jesus. R. Porque pela Vossa santa cruz remistes o mundo.",
+        "texto": "Jesus disse [a Maria Madalena]: 'Não Me detenhas, pois ainda não subi para o Pai; mas vai ter com os Meus irmãos e diz-lhes: Subo para o Meu Pai, que é vosso Pai, para o Meu Deus, que é vosso Deus.' Maria Madalena foi e anunciou aos discípulos: 'Vi o Senhor!' E contou o que Ele lhe tinha dito. (Jo 20,17-18)",
+        "oracoes": ["Pai Nosso", "Ave Maria", "Glória"],
+        "invocacao": "Ó santa Mãe da dor, gravai no meu coração as chagas do Salvador."
+      }
+    ]
+  }
+  
